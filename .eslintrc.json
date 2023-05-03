@@ -3,7 +3,7 @@
     "es2021": true,
     "node": true
   },
-  "extends": ["xo", "prettier"],
+  "extends": ["xo", "prettier", jlin],
   "overrides": [],
   "parserOptions": {
     "ecmaVersion": "latest",
